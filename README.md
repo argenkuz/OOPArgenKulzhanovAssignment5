@@ -56,7 +56,9 @@ This project is an implementation of an e-commerce system with various device cl
 
 ## UML Class Diagram
 
-![Снимок экрана 2025-02-23 в 14.28.31.png](../../../%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-02-23%20%D0%B2%2014.28.31.png)
+<img width="660" alt="Снимок экрана 2025-02-23 в 14 28 31" src="https://github.com/user-attachments/assets/912c9bd2-2eb9-4283-9cfc-08ec557555d7" />
+
+
 
 ## How to Run the Code
 1.Run the main script:
